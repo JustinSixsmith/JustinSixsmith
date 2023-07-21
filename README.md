@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React - Next.js - SQL - Data Structures & Algorithms**
 
-- 👨‍💻 My personal portfolio [https://portfolio-yt-nu.vercel.app/](https://portfolio-yt-nu.vercel.app/)
+- 👨‍💻 My personal portfolio website [https://portfolio-yt-nu.vercel.app/](https://portfolio-yt-nu.vercel.app/)
 
 - 📫 How to reach me **justinsixsmith@gmail.com**
 
