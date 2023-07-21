@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justinsixsmith&label=Profile%20views&color=0e75b6&style=flat" alt="justinsixsmith" /> </p>
 
-- 🌱 I’m currently learning **React - Next.js**
+- 🌱 I’m currently learning **React - Next.js - SQL - Data Structures & Algorithms**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-yt-nu.vercel.app/](https://portfolio-yt-nu.vercel.app/)
 
